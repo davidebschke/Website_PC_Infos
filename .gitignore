@@ -1,0 +1,17 @@
+
+# MainFolder
+/build
+.idea
+.DS_Store
+
+
+
+# Backend
+
+*/backend.iml
+/backend/target
+
+# Frontend
+
+frontend/node_modules/
+/frontend.iml
